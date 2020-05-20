@@ -1,0 +1,14 @@
+body {
+  background-color: grey;
+}
+#title {
+  color: white;
+}
+
+#imgContainer {
+  width: 100%;
+  display: flexbox;
+}
+img {
+  margin-bottom: 20px;
+}
